@@ -1,0 +1,13 @@
+h1{
+      color: grey;
+      text-align: center;
+}
+
+body {
+    background-color: lightyellow;
+
+}
+
+div {
+    animation: mymove 5s infinite;
+}
